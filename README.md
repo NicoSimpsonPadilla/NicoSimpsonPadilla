@@ -12,9 +12,22 @@ I'm a Full Stack Developer passionate about clean code, modern web technologies,
 
 ## 📄 Download My CV
 
-| English 🇬🇧 | Español 🇪🇸 |
-|------------|------------|
-| 📥 [Download CV (PDF)](https://your-link-to-cv.com/your-cv-en.pdf)<br><br>![CV Preview](https://your-link-to-image.com/your-cv-en-preview.png) | 📥 [Descargar CV (PDF)](https://your-link-to-cv.com/tu-cv-es.pdf)<br><br>![Vista previa del CV](https://your-link-to-image.com/tu-cv-es-preview.png) |
+<table>
+  <tr>
+    <th style="text-align:center;">English 🇬🇧</th>
+    <th style="text-align:center;">Español 🇪🇸</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-english.pdf" style="font-weight:bold; font-size:16px;">📥 Download CV (PDF)</a><br><br>
+      <img src="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-english-preview.png" alt="CV Preview" width="200px" />
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-spanish.pdf" style="font-weight:bold; font-size:16px;">📥 Descargar CV (PDF)</a><br><br>
+      <img src="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-spanish-preview.png" alt="Vista previa del CV" width="200px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
