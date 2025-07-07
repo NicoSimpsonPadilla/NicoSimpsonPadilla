@@ -1,12 +1,34 @@
 # 👋 Hi there! I'm Nico
 
-I'm a Full Stack Developer passionate about clean code, modern web technologies, and building meaningful projects.
+<p>I'm a Full Stack Developer passionate about clean code, modern web technologies, and building meaningful projects.</p>
 
-- 🔭 Currently working on personal backend and full stack projects
-- 🌱 Learning more about AI tools and software architecture
-- 📫 How to reach me:
-  - nicosimpsonpadilla@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/nicolas-simpson-padilla/)
+<ul>
+  <li>🔭 Currently working on personal backend and full stack projects</li>
+  <li>🌱 Learning more about AI tools and software architecture</li>
+  <li>📫 How to reach me:</li>
+</ul>
+
+<div style="margin-left: 30px;">
+  <table cellpadding="5">
+    <tr>
+      <td align="right" valign="middle" style="border: none;">
+        <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" width="24" />
+      </td>
+      <td align="left" valign="middle" style="border: none;">
+        <a href="mailto:nicosimpsonpadilla@gmail.com" style="text-decoration:none; color: inherit;">nicosimpsonpadilla@gmail.com</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="border: none;">
+        <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="24" />
+      </td>
+      <td align="left" valign="middle" style="border: none;">
+        <a href="https://www.linkedin.com/in/nicolas-simpson-padilla/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -44,7 +66,6 @@ I'm a Full Stack Developer passionate about clean code, modern web technologies,
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreS)
 
 ---
 
