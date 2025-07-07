@@ -10,6 +10,14 @@ I'm a Full Stack Developer passionate about clean code, modern web technologies,
 
 ---
 
+## 📄 Download My CV
+
+| English 🇬🇧 | Español 🇪🇸 |
+|------------|------------|
+| 📥 [Download CV (PDF)](https://your-link-to-cv.com/your-cv-en.pdf)<br><br>![CV Preview](https://your-link-to-image.com/your-cv-en-preview.png) | 📥 [Descargar CV (PDF)](https://your-link-to-cv.com/tu-cv-es.pdf)<br><br>![Vista previa del CV](https://your-link-to-image.com/tu-cv-es-preview.png) |
+
+---
+
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
