@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicolás%20Simpson%20Padilla&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Málaga%2C%20España&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎨+Passionate+about+Clean+Code;🚀+Building+Meaningful+Projects;🌟+Always+Learning+New+Tech;🇪🇸+Based+in+Málaga%2C+España" alt="Typing SVG" />
+<h3>🚀 Transforming Ideas into Digital Solutions 🌟</h3>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎨+Passionate+about+Clean+Code;🚀+Building+Meaningful+Projects;🌟+Always+Learning+New+Tech;🇪🇸+Based+in+Málaga%2C+España" alt="Typing Animation" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-### 🚀 Transforming Ideas into Digital Solutions 🌟
 
 </div>
 
@@ -20,11 +22,15 @@
 
 <div align="center">
 
-### 🔭 Currently Working On
-Personal backend and full-stack projects
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
-### 🌱 Currently Learning
-AI tools integration and advanced software architecture
+### 🔭 Currently Working On
+💻 Personal backend and full-stack projects
+
+### 🌱 Currently Learning  
+🤖 AI tools integration and advanced software architecture
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 ### 💼 Let's Connect
 
@@ -35,17 +41,27 @@ AI tools integration and advanced software architecture
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
 </div>
 
 
 ---
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ## 📄 Download My CV
 
-<table>
+<img src="https://img.shields.io/badge/Available%20in-2%20Languages-success?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
+</div>
+
+<table align="center">
   <tr>
-    <th style="text-align:center;">English 🇬🇧</th>
-    <th style="text-align:center;">Español 🇪🇸</th>
+    <th style="text-align:center;">🇬🇧 English </th>
+    <th style="text-align:center;">🇪🇸 Español </th>
   </tr>
   <tr>
     <td align="center">
@@ -61,7 +77,18 @@ AI tools integration and advanced software architecture
 
 ---
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
 ## 🚀 My Projects Portfolio
+
+<img src="https://img.shields.io/badge/Building-Amazing%20Projects-blue?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Real%20World%20Solutions-green?style=for-the-badge&logo=target&logoColor=white" />
+
+</div>
+
+<br>
 
 ### 🏖️ Villa Mar Vacation - Vacation Rental Platform
 *Personal Project in Development*
@@ -132,10 +159,21 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 ---
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSimpsonPadilla&layout=compact&theme=github_dark&hide_title=true&card_width=400&border_radius=10" width="400"/>
+<img src="https://img.shields.io/badge/Code-Quality%20Focused-blue?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Languages-Diverse%20Skills-purple?style=for-the-badge&logo=code&logoColor=white" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSimpsonPadilla&layout=compact&theme=github_dark&hide_title=true&card_width=400&border_radius=10" width="400"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 </div>
 
 <br>
