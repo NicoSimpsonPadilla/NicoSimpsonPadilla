@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicolás%20Simpson%20Padilla&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Málaga%2C%20España&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicolás%20Simpson%20Padilla&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Málaga%2C%20Spain&descAlignY=55&descSize=18" width="100%" />
 
 <h3>🚀 Transforming Ideas into Digital Solutions 🌟</h3>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎨+Passionate+about+Clean+Code;🚀+Building+Meaningful+Projects;🌟+Always+Learning+New+Tech;🇪🇸+Based+in+Málaga%2C+España" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎨+Passionate+about+Clean+Code;🚀+Building+Meaningful+Projects;🌟+Always+Learning+New+Tech;🇪🇸+Based+in+Málaga%2C+Spain" alt="Typing Animation" />
 </p>
 
 </div>
@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Málaga%2C%20España-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Málaga%2C%20Spain-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 <br>
@@ -51,7 +51,7 @@
 <table align="center">
   <tr>
     <th style="text-align:center;">🇬🇧 English </th>
-    <th style="text-align:center;">🇪🇸 Español </th>
+    <th style="text-align:center;">🇪🇸 Spanish </th>
   </tr>
   <tr>
     <td align="center">
@@ -59,8 +59,8 @@
       <img src="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-english-preview.png" alt="CV Preview" width="200px" />
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-spanish.pdf" style="font-weight:bold; font-size:16px;">📥 Descargar CV (PDF)</a><br><br>
-      <img src="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-spanish-preview.png" alt="Vista previa del CV" width="200px" />
+      <a href="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-spanish.pdf" style="font-weight:bold; font-size:16px;">📥 Download CV (PDF)</a><br><br>
+      <img src="https://raw.githubusercontent.com/NicoSimpsonPadilla/NicoSimpsonPadilla/main/cv-spanish-preview.png" alt="CV Preview" width="200px" />
     </td>
   </tr>
 </table>
@@ -186,6 +186,6 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 <img src="https://komarev.com/ghpvc/?username=NicoSimpsonPadilla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
 
 </div>
