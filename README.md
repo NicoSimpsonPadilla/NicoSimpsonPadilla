@@ -53,7 +53,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+## � Featured Projects
+
+### Villa Mar Vacation
+A vacation rental platform built with modern web technologies. This project showcases property listings, booking functionality, and responsive design.
+
+🔗 **Live Demo:** [villa-mar-vacation.vercel.app](https://villa-mar-vacation.vercel.app/)
+
+---
+
+## �🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
