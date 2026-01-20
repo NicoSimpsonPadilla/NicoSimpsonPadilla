@@ -28,8 +28,8 @@
 
 ### 💼 Let's Connect
 
-<a href="mailto:nicosimpsonpadilla@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:nicosimpsonpadilla@gmail.com?subject=Hello%20Nico&body=Hi%20Nico%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards%2C">
+  <img src="https://img.shields.io/badge/📧%20Send%20Email-nicosimpsonpadilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
 </a>
 <a href="https://www.linkedin.com/in/nicolas-simpson-padilla/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
