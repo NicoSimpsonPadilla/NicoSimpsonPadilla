@@ -72,11 +72,10 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 <div align="center">
   <h3>
-    🌐 <a href="https://villa-mar-vacation.vercel.app/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
-      <strong>🚀 VIEW LIVE DEMO 🚀</strong>
+    🌐 <a href="https://villa-mar-vacation.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <strong>VIEW LIVE DEMO</strong>
     </a> 🌐
   </h3>
-  <p><em>Click to open in new tab</em></p>
 </div>
 
 > *Repository is private due to proprietary code*
