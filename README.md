@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/nicosimpsonpadilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/nicolas-simpson-padilla/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin.com/in/nicolas--simpson--padilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💼%20Nicolas%20Simpson%20Padilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
