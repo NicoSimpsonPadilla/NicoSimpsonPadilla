@@ -8,8 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎨+Passionate+about+Clean+Code;🚀+Building+Meaningful+Projects;🌟+Always+Learning+New+Tech;🇪🇸+Based+in+Málaga%2C+España" alt="Typing Animation" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
 </div>
 
 <div align="center">
@@ -22,15 +20,11 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
 ### 🔭 Currently Working On
 💻 Personal backend and full-stack projects
 
 ### 🌱 Currently Learning  
 🤖 AI tools integration and advanced software architecture
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 ### 💼 Let's Connect
 
@@ -41,16 +35,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
 </div>
 
 
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ## 📄 Download My CV
 
@@ -78,8 +68,6 @@
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 ## 🚀 My Projects Portfolio
 
@@ -161,8 +149,6 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
 ## 📊 GitHub Stats
 
 <img src="https://img.shields.io/badge/Code-Quality%20Focused-blue?style=for-the-badge&logo=github&logoColor=white" />
@@ -171,8 +157,6 @@ A comprehensive vacation rental platform showcasing modern web development pract
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSimpsonPadilla&layout=compact&theme=github_dark&hide_title=true&card_width=400&border_radius=10" width="400"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 </div>
 
@@ -193,16 +177,12 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ### 🌟 Let's Create Something Amazing Together! 🌟
 
 <img src="https://img.shields.io/badge/💬-Always%20Open%20to-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🤝-Collaboration-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💡-New%20Ideas-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🚀-Innovation-purple?style=for-the-badge" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <img src="https://komarev.com/ghpvc/?username=NicoSimpsonPadilla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
