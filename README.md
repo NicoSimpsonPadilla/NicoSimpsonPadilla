@@ -55,30 +55,30 @@
 
 ## 🚀 My Projects Portfolio
 
+### 🏖️ Villa Mar Vacation - Vacation Rental Platform
+*Personal Project in Development*
+
+A comprehensive vacation rental platform showcasing modern web development practices. Features property listings, booking system, user authentication, and responsive design.
+
+**Key Features:**
+- 🏠 Interactive property listings
+- 📅 Booking system with calendar
+- 👤 User authentication
+- 📱 Fully responsive design
+- 🎨 Modern UI/UX
+
+**Status:** Work in Progress  
+**Tech Stack:** Full-stack web development
+
 <div align="center">
-  <h3>🏖️ Villa Mar Vacation - Vacation Rental Platform</h3>
-  <p><em>Personal Project in Development</em></p>
+  <h3>
+    🌐 <a href="https://villa-mar-vacation.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <strong>VIEW LIVE DEMO</strong>
+    </a> 🌐
+  </h3>
 </div>
 
-**🎯 Project Overview:**  
-A comprehensive vacation rental platform that I'm currently developing as a personal project to showcase my full-stack development skills. This application demonstrates modern web development practices and user-centric design.
-
-**🛠️ What I'm Building:**
-- 🏠 Interactive property listings with detailed information
-- 📅 Advanced booking system with calendar integration
-- 👤 User authentication and profile management
-- 📱 Fully responsive design for all devices
-- 🎨 Modern UI/UX with smooth animations
-
-**🔧 Technical Implementation:**  
-Built using cutting-edge web technologies, this project showcases my expertise in both frontend and backend development, database design, and deployment strategies.
-
-**🌟 Current Status:** *Work in Progress*  
-This project represents my commitment to continuous learning and building real-world applications that solve practical problems.
-
-🔗 **Live Demo:** [villa-mar-vacation.vercel.app](https://villa-mar-vacation.vercel.app/){:target="_blank"}
-
-> *Note: Repository is private due to confidential business logic and proprietary code.*
+> *Repository is private due to proprietary code*
 
 ---
 
