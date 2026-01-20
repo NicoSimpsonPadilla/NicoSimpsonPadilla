@@ -1,17 +1,19 @@
 <div align="center">
-  
-# 👨‍💻 Nicolás Simpson Padilla
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Clean+Code;Building+Meaningful+Projects;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicolás%20Simpson%20Padilla&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Málaga%2C%20España&descAlignY=55&descSize=18" width="100%" />
 
-### 🚀 Transforming Ideas into Digital Solutions
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎨+Passionate+about+Clean+Code;🚀+Building+Meaningful+Projects;🌟+Always+Learning+New+Tech;🇪🇸+Based+in+Málaga%2C+España" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+### 🚀 Transforming Ideas into Digital Solutions 🌟
 
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Chile-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Málaga%2C%20España-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 <br>
@@ -153,10 +155,19 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**Let's build something amazing together! 🚀**
+### 🌟 Let's Create Something Amazing Together! 🌟
 
-<img src="https://komarev.com/ghpvc/?username=NicoSimpsonPadilla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/badge/💬-Always%20Open%20to-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝-Collaboration-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡-New%20Ideas-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀-Innovation-purple?style=for-the-badge" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<img src="https://komarev.com/ghpvc/?username=NicoSimpsonPadilla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
 
 </div>
