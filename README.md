@@ -104,10 +104,6 @@ A comprehensive vacation rental platform showcasing modern web development pract
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSimpsonPadilla&layout=compact&theme=github_dark&hide_title=true&card_width=400" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoSimpsonPadilla&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="400"/>
-</p>
-
 ---
 
 Thanks for visiting my profile! ⭐  
