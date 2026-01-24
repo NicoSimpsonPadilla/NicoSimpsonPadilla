@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=200&section=header&text=Nicolás%20Simpson%20Padilla&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Málaga%2C%20Spain&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=200&section=header&text=Nicolás%20Simpson%20Padilla&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Málaga%2C%20Spain&descAlignY=55&descSize=18" width="100%" />
 
 <h3>💼 Transforming Ideas into Professional Digital Solutions</h3>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=24&duration=3000&pause=1000&color=2F4F4F&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎯+Clean+%26+Efficient+Code;📈+Scalable+Solutions;📚+Continuous+Learning;🇪🇸+Based+in+Málaga%2C+Spain" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🎯+Clean+%26+Efficient+Code;📈+Scalable+Solutions;📚+Continuous+Learning;🇪🇸+Based+in+Málaga%2C+Spain" alt="Typing Animation" />
 </p>
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2F4F4F?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Málaga%2C%20Spain-708090?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1e3a8a?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Málaga%2C%20Spain-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 <br>
@@ -29,10 +29,10 @@
 ### 💼 Let's Connect
 
 <a href="mailto:nicosimpsonpadilla@gmail.com?subject=Hello%20Nico&body=Hi%20Nico%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards%2C">
-  <img src="https://img.shields.io/badge/nicosimpsonpadilla@gmail.com-2F4F4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/nicosimpsonpadilla@gmail.com-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/nicolas-simpson-padilla/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Simpson%20Padilla-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Simpson%20Padilla-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -45,7 +45,7 @@
 
 ## 📄 Download My CV
 
-<img src="https://img.shields.io/badge/Available%20in-2%20Languages-4682B4?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/Available%20in-2%20Languages-3b82f6?style=for-the-badge&logo=googletranslate&logoColor=white" />
 
 </div>
 
@@ -72,8 +72,8 @@
 
 ## 🚀 My Projects Portfolio
 
-<img src="https://img.shields.io/badge/Building-Professional%20Projects-2F4F4F?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Real%20World%20Solutions-4682B4?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Building-Professional%20Projects-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Real%20World%20Solutions-3b82f6?style=for-the-badge&logo=target&logoColor=white" />
 
 </div>
 
@@ -112,37 +112,37 @@ A comprehensive vacation rental platform showcasing modern web development pract
   
 **Frontend Development**
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-2F4F4F?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-4682B4?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-708090?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-2F4F4F?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-4682B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-708090?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-2F4F4F?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-4682B4?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-708090?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e3a8a?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-06b6d4?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-1e3a8a?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-3b82f6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-06b6d4?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-1e3a8a?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-3b82f6?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend Development**
 
-![Node.js](https://img.shields.io/badge/-Node.js-2F4F4F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-4682B4?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-708090?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-2F4F4F?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-1e3a8a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-3b82f6?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-06b6d4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-1e3a8a?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Database & Cloud**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-4682B4?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-708090?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2F4F4F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-4682B4?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3b82f6?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-06b6d4?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e3a8a?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Tools & Workflow**
 
-![Git](https://img.shields.io/badge/-Git-708090?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-2F4F4F?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-4682B4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-708090?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-06b6d4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-3b82f6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-06b6d4?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-1e3a8a?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -152,8 +152,8 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 ## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/Code-Quality%20Focused-2F4F4F?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Languages-Diverse%20Skills-4682B4?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-Quality%20Focused-1e3a8a?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Languages-Diverse%20Skills-3b82f6?style=for-the-badge&logo=code&logoColor=white" />
 
 <br><br>
 
@@ -167,10 +167,10 @@ A comprehensive vacation rental platform showcasing modern web development pract
   
 ### 🎯 What Drives Me
 
-<img src="https://img.shields.io/badge/💡-Innovation-2F4F4F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀-Performance-4682B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎨-User Experience-708090?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📚-Continuous Learning-2F4F4F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡-Innovation-1e3a8a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀-Performance-3b82f6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎨-User Experience-06b6d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📚-Continuous Learning-1e3a8a?style=for-the-badge" />
 
 </div>
 
@@ -180,13 +180,13 @@ A comprehensive vacation rental platform showcasing modern web development pract
 
 ### 🌟 Let's Create Something Professional Together! 🌟
 
-<img src="https://img.shields.io/badge/💬-Always%20Open%20to-4682B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝-Collaboration-2F4F4F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡-New%20Ideas-708090?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀-Innovation-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💬-Always%20Open%20to-3b82f6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝-Collaboration-1e3a8a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡-New%20Ideas-06b6d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀-Innovation-3b82f6?style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=NicoSimpsonPadilla&label=Profile%20views&color=4682B4&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=NicoSimpsonPadilla&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
 
 </div>
